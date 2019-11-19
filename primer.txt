@@ -1,3 +1,8 @@
 primer cambio1
 segundo cambio 
-
+ Here we are adding new features 
+    Feature 1
+       This feature contains:
+          * Sales point
+	  * Pay by card
+	  * Search engine
